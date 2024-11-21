@@ -46,3 +46,7 @@ git clone <https://github.com/codebasebo/Number-guesser-game.git>
 cd number-guesser-game
 npm install
 npm start
+
+## Preview Project
+You can preview the project by visiting the following link:
+[Number Guesser Game Preview](https://number-guesser-game-2soz8g5xs-royals-projects-ffbaec3e.vercel.app)
