@@ -5,7 +5,20 @@
 - You have a limited number of attempts based on the selected difficulty level.
 - Feedback will be provided if your guess is too high, too low, or correct.
 - Win by guessing the correct number within the allowed attempts.
+## Prerequisites
+- Node.js installed on your machine.
+- npm (Node Package Manager) installed.
 
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Features
 - Random number generation between 1 and 100.
 - Graphical user interface for inputting guesses.
@@ -29,7 +42,7 @@
 
 ## Installation
 ```bash
-git clone <repository-url>
+git clone <https://github.com/codebasebo/Number-guesser-game.git>
 cd number-guesser-game
 npm install
 npm start
